@@ -13,3 +13,6 @@ Cada nueva funcionalidad se desarrolla en una rama separada:
 
 Implementar un ciclo completo de DevOps con control de versiones,
 automatización CI/CD con GitHub Actions y despliegue en AWS.
+
+## Autor
+Isaac
